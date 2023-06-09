@@ -43,6 +43,8 @@ This script sets up a WordPress environment using Docker Compose. It includes a 
      ```
 
 Notes:
-- Ensure that you have the necessary permissions and Docker installed on your system.
-- If you encounter any issues or errors during the setup, refer to the Docker documentation or seek support from the Docker community.
+just clone this repo to your pwd and there you go
+
+
+
 
